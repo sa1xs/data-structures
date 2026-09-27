@@ -6,7 +6,7 @@ public class ArbolBinarioBusqueda {
     private NodoArbol raiz;
 
     //CONSTRUCTOR
-    public BST(){
+    public ArbolBinarioBusqueda(){
         raiz = null;
     }
 
